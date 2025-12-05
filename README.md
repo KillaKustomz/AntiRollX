@@ -1,7 +1,7 @@
 # 🚗 AntiRollX
 ### *AntiRollX - Vehicle Flip & Roll Prevention System for FiveM*
 
-[![Cover](../AntiRollX/assets/images/icon1.png)
+![Cover](/AntiRollX/assets/images/icon1.png)
 
 AntiRollX is a lightweight, standalone FiveM resource that removes unrealistic “arcade-style” vehicle control by disabling mid-air steering and preventing players from manually flipping their vehicle while upside down. Designed for immersion-focused roleplay servers.
 
